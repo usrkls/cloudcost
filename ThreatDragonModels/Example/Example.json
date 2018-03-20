@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Example"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "GDPR",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
